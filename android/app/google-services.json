@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881325615829",
+    "project_id": "appp-b8b91",
+    "storage_bucket": "appp-b8b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881325615829:android:1f369425101cac5655505c",
+        "android_client_info": {
+          "package_name": "com.example.folks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdD1LYCTqJ6u6FdeIxKQQ94_m7UrMM4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
